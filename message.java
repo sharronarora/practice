@@ -1,6 +1,7 @@
 class Program
 {
-	System.out.println("New Message");
 
-	System.ut.println("Message");
+	System.out.println("New Message");
+	System.out.println("Message");
+
 }
