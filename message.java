@@ -1,4 +1,4 @@
 class Program
 {
-	System.ut.println("Message");
+	System.out.println("Message");
 }
